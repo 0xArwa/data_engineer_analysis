@@ -23,7 +23,7 @@ Three main questions were raised:
 There are 3 files: 
 - data_engineer_insight : include the whole notebook and python codes
 - 2021-data-engineer-survey-questions : the CSV file that contains the questions of the survey
-- 2021-data-engineer-survey-answers :  the CSV file that contains the ansewrs of the survey
+- 2021-data-engineer-survey-results :  the CSV file that contains the ansewrs of the survey
 
 <a id='4'></a>
 ## Results
