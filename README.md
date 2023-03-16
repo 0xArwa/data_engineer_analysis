@@ -28,7 +28,7 @@ There are 3 files:
 <a id='4'></a>
 ## Results
 
-the answers were demonstrated through the notebook and a wrote an article to discuss the findings and insights I came up, you can find the article here.
+the answers were demonstrated through the notebook and a wrote an article to discuss the findings and insights I came up, you can find the article <a href="https://medium.com/@arwaomayrah/why-do-data-engineers-feel-burnout-d20242697169"> here. </a>
 
 <a id='5'></a>
 ## Licensing, Authors, Acknowledgements
