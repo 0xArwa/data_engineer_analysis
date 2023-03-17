@@ -7,7 +7,7 @@
 
 <a id='1'></a>
 ## Installation
-You can run the notebook on your local jupyter or you can you Google Colab.
+You can run the notebook on your local jupyter or you can use Google Colab.
 
 <a id='2'></a>
 ## Project Motivation
